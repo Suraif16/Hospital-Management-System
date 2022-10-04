@@ -13,3 +13,5 @@
 - CSS
 - php
 - mysql
+
+# Contributions are much welcome
